@@ -1,0 +1,15 @@
+C:\Users\jk185331\My Code\ObserverPattern\bin\Debug\net6.0\ObserverPattern.exe
+C:\Users\jk185331\My Code\ObserverPattern\bin\Debug\net6.0\ObserverPattern.deps.json
+C:\Users\jk185331\My Code\ObserverPattern\bin\Debug\net6.0\ObserverPattern.runtimeconfig.json
+C:\Users\jk185331\My Code\ObserverPattern\bin\Debug\net6.0\ObserverPattern.dll
+C:\Users\jk185331\My Code\ObserverPattern\bin\Debug\net6.0\ObserverPattern.pdb
+C:\Users\jk185331\My Code\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.AssemblyReference.cache
+C:\Users\jk185331\My Code\ObserverPattern\obj\Debug\net6.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jk185331\My Code\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\jk185331\My Code\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\jk185331\My Code\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\jk185331\My Code\ObserverPattern\obj\Debug\net6.0\ObserverPattern.dll
+C:\Users\jk185331\My Code\ObserverPattern\obj\Debug\net6.0\refint\ObserverPattern.dll
+C:\Users\jk185331\My Code\ObserverPattern\obj\Debug\net6.0\ObserverPattern.pdb
+C:\Users\jk185331\My Code\ObserverPattern\obj\Debug\net6.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\jk185331\My Code\ObserverPattern\obj\Debug\net6.0\ref\ObserverPattern.dll
