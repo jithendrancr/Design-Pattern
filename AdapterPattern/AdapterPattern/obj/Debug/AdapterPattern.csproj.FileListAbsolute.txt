@@ -1,0 +1,10 @@
+C:\Users\jk185331\My Code\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\Users\jk185331\My Code\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\jk185331\My Code\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\jk185331\My Code\AdapterPattern\AdapterPattern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jk185331\My Code\AdapterPattern\AdapterPattern\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\jk185331\My Code\AdapterPattern\AdapterPattern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jk185331\My Code\AdapterPattern\AdapterPattern\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\jk185331\My Code\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Users\jk185331\My Code\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Users\jk185331\My Code\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
