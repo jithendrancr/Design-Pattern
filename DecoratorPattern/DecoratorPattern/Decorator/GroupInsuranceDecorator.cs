@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,11 +13,11 @@ namespace DecoratorPattern.Decorator
         public GroupInsuranceDecorator(IEmployee iemployee) : base(iemployee)
         {
         }
-        public void AddInsurance(IEmployee emp)
+        public void AddInsurance(IEmployee employee)
         {
-            if(emp is Employee)
+            if(employee is Employee)
             {
-                Employee _employee = (Employee)emp;
+                Employee _employee = (Employee)employee;
                 _employee.EmployeeDTO.InsuranceDetails = "Group Medical Insurance";
             }
         }
