@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,12 +14,12 @@ namespace DecoratorPattern.Decorator
         public IndividualInsuranceDecorator(IEmployee iemployee) : base(iemployee)
         {
         }
-        public void AddInsurance(IEmployee emp)
+        public void AddInsurance(IEmployee employee)
         {
-            if (emp is Employee)
+            if (employee is Employee)
             {
-                Employee _emp = (Employee)emp;
-                _emp.EmployeeDTO.InsuranceDetails = "Individual Medical Insurance";
+                Employee _employee = (Employee)employee;
+                _employee.EmployeeDTO.InsuranceDetails = "Individual Medical Insurance";
             }
         }
         public override IEmployee GetEmployee()
@@ -30,3 +30,4 @@ namespace DecoratorPattern.Decorator
         }
     }
 }
+
